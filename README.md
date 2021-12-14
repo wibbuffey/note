@@ -5,7 +5,7 @@ shell) to write notes in your terminal. There's really not much else to say, but
 perhaps you may find some guidance on how to use it helpful.
 
 Reasons you should consider using it:
-  - Easier to use than running `vi ~/note/$(+%s)`
+  - Easier to use than running `vi ~/note/$(date +%s)`
   - Minimal, no dependencies and exactly 50 lines (as of `main-v1.0.0`)
   - Lots of colors (the best part of the terminal, really)
 
